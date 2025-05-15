@@ -2,8 +2,12 @@
 
 <h2 align="center">💫 About Me</h2>
 
-<div align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; width: 500px;" alt="Coding GIF" />
+<div style="text-align: center;">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="Coding GIF" 
+    style="width: 100%; max-width: 100%; height: 500px; object-fit: cover;" 
+  />
 </div>
 
 <p align="center">
