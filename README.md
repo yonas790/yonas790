@@ -7,7 +7,7 @@
    </div> 
    
    <p align="center">
-     <strong>Hi there! I'm Yonas Tesera</strong> 👋<br>
+     <strong>Hi there! I'm **Yonas Tesera**</strong> 👋<br>
      A passionate and skilled <strong>Software Engineer</strong> who loves solving real-world problems through code.  
    </p>
    
