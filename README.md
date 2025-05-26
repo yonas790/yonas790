@@ -3,12 +3,17 @@
    <h2 align="center">💫 About Me</h2>
    
    <div align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; width: 500px;" alt="Coding GIF" />
+      <img 
+         src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+         alt="Coding GIF" 
+         style="max-width: 100%; height: auto; width: 500px;" 
+      />
    </div> 
    
+   <p align="center">👋</p>
+   <h2 align="center"><strong>Hi there! I'm Yonas Tesera</strong></h2>
    <p align="center">
-     <h2><strong>Hi there! I'm Yonas Tesera</strong></h2> 👋<br>
-     A passionate and skilled <strong>Software Engineer</strong> who loves solving real-world problems through code.  
+     A passionate and skilled <strong>Software Engineer</strong> who loves solving real-world problems through code.
    </p>
    
    ---
@@ -70,8 +75,6 @@
    ![](https://github-profile-trophy.vercel.app/?username=yonas790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
    
    ---
-   
-   
    
    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
    
