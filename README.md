@@ -10,7 +10,10 @@
          style="max-width: 100%; height: auto; width: 500px;" 
       />
    </div> 
-   <p><img src="https://komarev.com/ghpvc/?username=yonas790&label=Profile%20views&color=0e75b6&style=flat%22%20alt" alt="Yonas790" /></p>
+   <div align="left">
+     <img src="https://komarev.com/ghpvc/?username=yonas790&label=Profile%20views&color=0e75b6&style=flat" alt="Yonas790" />
+   </div>
+
    
    <p align="center">👋</p>
    <h2 align="center"><strong>Hi there! I'm Yonas Tesera</strong></h2>
