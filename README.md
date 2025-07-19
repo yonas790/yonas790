@@ -7,7 +7,7 @@
       style="border-radius: 10px; box-shadow: 0 0 12px #1e90ff;"
     />
     <img 
-      width="600" 
+      width="55%" 
       src="https://github-readme-activity-graph.vercel.app/graph?username=yonas790&theme=react-dark&hide_border=true" 
       alt="GitHub Activity Graph" 
       style="border-radius: 10px; box-shadow: 0 0 10px #ff00ff;"
