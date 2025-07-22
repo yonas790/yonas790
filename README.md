@@ -1,7 +1,6 @@
 <!-- GitHub README.md -->
 <div align="center">
    <h2 align="center">💫 About Me</h2>
-
    <div align="center">
       <img 
          src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
