@@ -12,12 +12,12 @@
   <h2 style="color: #87cefa;">📊 GitHub Stats Summary</h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img 
+<!--     <img 
       width="40%" 
-<!--       src="https://streak-stats.demolab.com?user=yonas790&theme=dark&border_radius=10&stroke=87cefa&ring=00bfff&fire=1e90ff&currStreakNum=87cefa"  -->
+      src="https://streak-stats.demolab.com?user=yonas790&theme=dark&border_radius=10&stroke=87cefa&ring=00bfff&fire=1e90ff&currStreakNum=87cefa" 
       style="border-radius: 10px; box-shadow: 0 0 12px #1e90ff;" 
       onerror="this.style.display='none';"
-    />
+    /> -->
     <img 
       width="55%" 
       src="https://github-readme-activity-graph.vercel.app/graph?username=yonas790&theme=react-dark&hide_border=true" 
