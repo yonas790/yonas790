@@ -106,8 +106,9 @@
   </p>
 </div>
 
-<!-- 🏆 GitHub Trophies -->
+<!-- 🏆 GitHub Trophies 
 <div align="center" display style="border: 2px solid #ff1493; border-radius: 15px; padding: 25px; margin-bottom: 30px; background-color: #121212;">
   <h2 style="color: #ff69b4;">🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=yonas790&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
+-->
