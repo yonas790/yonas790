@@ -5,8 +5,7 @@
     <img 
       width="40%" 
       src="https://streak-stats.demolab.com?user=yonas790&theme=dark&border_radius=10&stroke=87cefa&ring=00bfff&fire=1e90ff&currStreakNum=87cefa" 
-      style="border-radius: 10px; box-shadow: 0 0 12px #1e90ff;" 
-      onerror="this.style.display='none';"
+      style="border-radius: 10px; box-shadow: 0 0 12px #1e90ff;"
     />
     <img 
       width="55%" 
