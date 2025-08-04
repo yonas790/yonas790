@@ -7,28 +7,20 @@
       style="width:40%;"
     />
     <img 
-      width="55%" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=yonas790&theme=react-dark&hide_border=true" 
-      alt="GitHub Activity Graph" 
-      style="border-radius: 10px; box-shadow: 0 0 10px #ff00ff;"
+      width="56%" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonas790&theme=dark" 
     />
     <img 
       width="38%" 
       src="https://github-readme-stats.vercel.app/api?username=yonas790&theme=dark&show_icons=true&count_private=true&border_radius=10" 
-      alt="GitHub Stats" 
-      style="border-radius: 10px; box-shadow: 0 0 10px #00ffff;"
     />
     <img 
       width="30%" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonas790&theme=dark&exclude=yacc" 
-      alt="Most Used Languages" 
-      style="border-radius: 10px; box-shadow: 0 0 10px #ff4500;"
     />
     <img 
       width="30%" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonas790&theme=dark" 
-      alt="General Stats" 
-      style="border-radius: 10px; box-shadow: 0 0 10px #00ffff;"
     />
   </div>
 
