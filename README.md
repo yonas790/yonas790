@@ -3,24 +3,24 @@
 <div align="center" style="border: 2px solid #1e90ff; border-radius: 15px; padding: 25px; margin-bottom: 30px; background-color: #121212;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img 
-      src="https://streak-stats.demolab.com?user=yonas790&theme=dark&border_radius=10&stroke=87cefa&ring=00bfff&fire=1e90ff&currStreakNum=87cefa"
+      src="https://streak-stats.demolab.com?user=yonas790&theme=dark&border_radius=10&stroke=87cefa&ring=00bfff&fire=1e90ff&currStreakNum=87cefa&hide_border=true"
       style="width:40%;"
     />
     <img 
       width="56%" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonas790&theme=dark" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonas790&theme=dark&hide_border=true&border_radius=10" 
     />
     <img 
       width="38%" 
-      src="https://github-readme-stats.vercel.app/api?username=yonas790&theme=dark&show_icons=true&count_private=true&border_radius=10" 
+      src="https://github-readme-stats.vercel.app/api?username=yonas790&theme=dark&show_icons=true&count_private=true&border_radius=10&hide_border=true" 
     />
     <img 
       width="30%" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonas790&theme=dark&exclude=yacc" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonas790&theme=dark&exclude=yacc&hide_border=true&border_radius=10" 
     />
     <img 
       width="30%" 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonas790&theme=dark" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonas790&theme=dark&hide_border=true&border_radius=10" 
     />
   </div>
 
